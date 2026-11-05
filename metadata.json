@@ -1,0 +1,6 @@
+{
+  "name": "Smart Stock v2.3",
+  "description": "스마트스탁 - 굿즈 재고관리 및 판매 POS 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
